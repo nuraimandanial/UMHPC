@@ -35,11 +35,6 @@
       <td align="center">@nerissa23</td>
       <td align="center">U2101552</td>
     </tr>
-    <tr>
-      <td align="center">Aysheh Ahmad</td>
-      <td align="center">@Aysheh04</td>
-      <td align="center">S2187664</td>
-    </tr>
   </tbody>
 </table>
 
